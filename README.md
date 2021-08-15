@@ -35,7 +35,7 @@ docker tag busybox:latest yourcloudcr.azurecr.io/dockerimages/busybox:latest
 docker push cloudimage:tag
 ```
 
-##### author @yannainglin
+##### author @mgyannainglin
 
 
 
