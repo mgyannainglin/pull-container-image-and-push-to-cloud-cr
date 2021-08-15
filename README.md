@@ -1,4 +1,4 @@
-# Docker image pull and Push To Azure Cloud  Container
+# Docker image pull and Push To Azure Cloud Registry
 
 ### Image pull from Docker
 1. login to docker hub
